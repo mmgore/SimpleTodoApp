@@ -6,5 +6,6 @@
         public int Rating { get; set; }
         public string City { get; set; }
         public string Street { get; set; }
+        public string PhouneNumber { get; set; }
     }
 }
